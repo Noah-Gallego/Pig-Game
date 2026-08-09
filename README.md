@@ -19,7 +19,7 @@ The application is contained in `Pig Game`:
 
 ## Preview
 
-![Pig game preview](https://noah-readme-assets.vercel.app/pig-game.png)
+![Pig game preview](https://noah-readme-assets-v3.vercel.app/Pig-Game/browser.png)
 
 ## Tech stack
 
