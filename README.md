@@ -2,6 +2,10 @@
 
 A browser implementation of the Pig dice game with local dice images and a JavaScript game controller.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" alt="HTML, CSS, and JavaScript" />
+</p>
+
 ## Overview
 
 The application is contained in `Pig Game`:
@@ -12,6 +16,10 @@ The application is contained in `Pig Game`:
 - `dice-1.png` through `dice-6.png` — dice faces.
 - `pig-game-flowchart.png` — flowchart asset.
 - `notes.md` — DOM and JavaScript learning notes.
+
+## Preview
+
+![Pig game preview](https://noah-readme-assets.vercel.app/pig-game.png)
 
 ## Usage
 
