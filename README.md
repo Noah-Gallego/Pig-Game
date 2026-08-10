@@ -21,13 +21,6 @@ The application is contained in `Pig Game`:
 
 ![Pig game preview](https://noah-readme-assets-v3.vercel.app/Pig-Game/browser.png)
 
-## Tech stack
-
-- HTML
-- CSS
-- JavaScript
-- Local PNG dice assets
-
 ## Usage
 
 Open `Pig Game/index.html` in a browser. The project is a static HTML, CSS, and JavaScript application with no package manifest or automated test suite.
