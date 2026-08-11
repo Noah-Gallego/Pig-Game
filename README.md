@@ -2,6 +2,10 @@
 
 A browser implementation of the Pig dice game with local dice images and a JavaScript game controller.
 
+> [!TIP]
+> Open `Pig Game/index.html` directly in a browser; all game assets and scripts are contained in that directory.
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=light" alt="HTML, CSS, and JavaScript" />
 </p>
@@ -28,3 +32,13 @@ Open `Pig Game/index.html` in a browser. The project is a static HTML, CSS, and 
 ## Status
 
 This is a standalone browser-game and learning project. The notes file contains its own instructional material and formatting choices.
+
+## Game flow
+
+```mermaid
+flowchart LR
+    A[Pig Game/index.html] --> B[script.js game controller]
+    C[dice-1.png through dice-6.png] --> B
+    D[style.css] --> A
+    B --> E[Browser dice game]
+```
